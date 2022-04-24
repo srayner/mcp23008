@@ -6,6 +6,6 @@ Included in the repo is the schematic diagram and example arduino code.
 
 ## Videos
 
-Part 1 - https://youtu.be/_UlN43XKvgo
-Part 2 - https://youtu.be/WG0TaXkoItU
-Part 3 - https://youtu.be/Y_2uDriBvpo
+* Part 1 - https://youtu.be/_UlN43XKvgo
+* Part 2 - https://youtu.be/WG0TaXkoItU
+* Part 3 - https://youtu.be/Y_2uDriBvpo
